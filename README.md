@@ -1,5 +1,5 @@
 # README #
-PSOD code will be available here
+The main file is PSOD.java
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
