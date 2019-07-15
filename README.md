@@ -1,7 +1,7 @@
 # README #
-*The main file is PSOD.java
-*Data folder contains synthetic data used in the paper. 
-*Real data was downloaded from www.timeseriesclassification.com
+* The main file is PSOD.java
+* Data folder contains synthetic data used in the paper. 
+* Real data was downloaded from www.timeseriesclassification.com
 
 ### What is this repository for? ###
 
