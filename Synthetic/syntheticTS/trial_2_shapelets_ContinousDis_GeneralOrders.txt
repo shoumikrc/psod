@@ -1,0 +1,9 @@
+S_0  Class:  -1
+S_1  Class:  1
+S0-S1<=-145.0  Class:  -1.0
+S_2  Class:  -1
+S1-S2>91.0  Class:  -1.0
+S_3  Class:  1
+S2-S3>54.0  Class:  1.0
+S_4  Class:  -1
+S2-S4>90.0  Class:  1.0

@@ -1,0 +1,5 @@
+0.675±NaN
+1.0±NaN
+Average Training Time
+1.712±NaN
+Best Alpha: -10.0
