@@ -1,30 +1,14 @@
 # README #
-PSOD code will be available here
-
-This README would normally document whatever steps are necessary to get your application up and running.
+* The main file is PSOD.java
+* Data folder contains synthetic data used in the paper. 
+* Real data was downloaded from www.timeseriesclassification.com
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Code file PSOD.java for SDM 2019 paper titled "Leveraging Subsequence-orders for Univariate and Multivariate Time-series Classification"
+
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Code was developed using Netbeans 8.2
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
